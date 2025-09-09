@@ -1,0 +1,9 @@
+C:\Users\a.razi\source\repos\StopwatchGUI\StopwatchGUI\bin\Debug\StopwatchGUI.exe.config
+C:\Users\a.razi\source\repos\StopwatchGUI\StopwatchGUI\bin\Debug\StopwatchGUI.exe
+C:\Users\a.razi\source\repos\StopwatchGUI\StopwatchGUI\bin\Debug\StopwatchGUI.pdb
+C:\Users\a.razi\source\repos\StopwatchGUI\StopwatchGUI\obj\Debug\StopwatchGUI.csproj.AssemblyReference.cache
+C:\Users\a.razi\source\repos\StopwatchGUI\StopwatchGUI\obj\Debug\StopwatchGUI.Properties.Resources.resources
+C:\Users\a.razi\source\repos\StopwatchGUI\StopwatchGUI\obj\Debug\StopwatchGUI.csproj.GenerateResource.cache
+C:\Users\a.razi\source\repos\StopwatchGUI\StopwatchGUI\obj\Debug\StopwatchGUI.csproj.CoreCompileInputs.cache
+C:\Users\a.razi\source\repos\StopwatchGUI\StopwatchGUI\obj\Debug\StopwatchGUI.exe
+C:\Users\a.razi\source\repos\StopwatchGUI\StopwatchGUI\obj\Debug\StopwatchGUI.pdb
